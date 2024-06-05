@@ -88,5 +88,4 @@ As a dedicated and efficient Full-Stack Web Developer, I have a passion for buil
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
