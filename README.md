@@ -18,7 +18,7 @@ As a dedicated and efficient Full-Stack Web Developer, I have a passion for buil
 <br/>  
 
 
-## Rapidfire  
+## About me
 <table><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning Java Spring Framework  
@@ -30,11 +30,11 @@ As a dedicated and efficient Full-Stack Web Developer, I have a passion for buil
 - ⚡ Fun fact: I'm a speedrunner in Path of Exile😎  
 
 
-</td><td valign="top" width="50%">
 
 
 
-</td></tr></table>  
+
+</table>  
 
 <br/>  
 
