@@ -8,6 +8,9 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
+<a href="https://docs.credentials.rutgers.edu/3459f863-2a39-4d87-b3bb-8a5607df0b48" target="_blank">
+<img src="https://github.com/tarikorg/tarikorg/assets/162926837/96bcdd34-7846-4cb8-98e9-d6980d0bc379" height="100"/>
+</a>
 
 
 
